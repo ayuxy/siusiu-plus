@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"strings"
 	
-	"github.com/ayuxy/ishell-plus/controllers"
-	"github.com/ayuxy/ishell-plus/pkg/exec"
+	"github.com/ayuxy/siusiu-plus/controllers"
+	"github.com/ayuxy/siusiu-plus/pkg/exec"
 	"github.com/abiosoft/ishell"
 )
 
